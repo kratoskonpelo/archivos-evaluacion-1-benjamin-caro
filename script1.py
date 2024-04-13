@@ -1,0 +1,10 @@
+#este script está creado completamente por Benjamín Caro
+nombre = (input("Ingrese su nombre: "))
+apellido = (input("Ingrese su apellido: "))
+codsecc = (input("Ingrese el numero de sección: "))
+sede = (input("Ingrese su sede de estudio: "))
+print("Sus datos son :")
+print(nombre)
+print(apellido)
+print(codsecc)
+print(sede)
